@@ -1,2 +1,3 @@
-const msg: string = 'Tooling is live';
-console.log(msg);
+import { runDemo } from './sim/demo';
+
+runDemo();
